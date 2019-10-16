@@ -1,4 +1,5 @@
-# Determine if you like programming
+# Lesson 1: Learn How To Program
+## 1. Determine if you like programming
 
 One of the most important steps before taking up the task of learning how to program is to decide if it's even worth your time to start. 
 
@@ -14,7 +15,7 @@ There's a few helpful ways to figure this out. One is to read through the list b
 
 If you learn programming you'll be doing a lot of this kind of stuff. 
 
-## Get your feet wet with tutorials/videos
+## 2. Get your feet wet with a tutorial
 
 If this list of things sounds like something up your alley then I'd recommend trying out a small tutorial that walks through the basics of programming. Freecodecamp.org has a bunch of great stuff. You could also try something on CodeAcademy. 
 
