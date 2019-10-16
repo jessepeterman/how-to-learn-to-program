@@ -7,12 +7,14 @@
 4. Swift - Learn this if you want to make iOS or Mac apps and games. 
 
 ### Additional Resources
+
 - [The best programming language to learn in 2019](https://medium.com/duomly-blockchain-online-courses/the-best-programming-language-to-learn-in-2019-466986db384e) - a helpful article for thinking about the pros and cons of the top 10 most popular programming languages. 
 ## Start learning the core language features
 
-For this I'd just start getting the language setup on your system. Learn how to open a basic file and run it in our language of choice. Then set aside 15-30 minutes a day 3-5 days a week (or more depending on how fast you want to learn) and start walking through the tutorial. 
+For this I'd just start getting the language setup on your system. Learn how to open a basic file and run it in your language of choice. Then set aside 15-30 minutes a day 3-5 days a week (or more depending on how fast you want to learn) and start walking through the tutorial. 
 
 ### Tips for going through the tuturial
+
 1. Type in every example to make it run. 
 2. After you make the example run, change some of the code and try to run it. Move lines around, Change the variables. Add random things to see what breaks and take note of the error messages. 
 3. Take note of the features you're learning and begin to brainstorm app ideas you could write with your new found programming skills.
