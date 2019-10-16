@@ -16,7 +16,7 @@ For this I'd just start getting the language setup on your system. Learn how to 
 ### Tips for going through the tuturial
 
 1. Type in every example to make it run. 
-2. After you make the example run, change some of the code and try to run it. Move lines around, Change the variables. Add random things to see what breaks and take note of the error messages. 
+2. After you make the example run, change some of the code and try to run it. Move lines around, Change the variables. Add random things to see what breaks and take note of the error messages. And then **this is very important** make it run again after you break it. 
 3. Take note of the features you're learning and begin to brainstorm app ideas you could write with your new found programming skills.
 
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html) - This is the de facto standard for Python reference/tutorial from the source.
